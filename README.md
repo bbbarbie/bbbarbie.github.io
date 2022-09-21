@@ -1,4 +1,4 @@
-# bbbarbie.github.io
+# Barbie Dance Club
 Syntax highlighted code block
 
 # Header 1
